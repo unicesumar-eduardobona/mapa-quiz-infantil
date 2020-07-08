@@ -13,4 +13,4 @@ c. Estando tudo OK, [acesse o link http://localhost:9001 em seu navegador](http:
 ## Mapas de Desenvolvimento
 
 - Mapa 01: [Deixando página inicial funcional e com mais animais](./mapa/Mapa-01.md)
-- Mapa 02: [Adicionando nova funcionalidade de persistência de votos e atualização da pontuação](./mapa/Mapa-01.md)
+- Mapa 02: [Adicionando nova funcionalidade de persistência de votos e atualização da pontuação](./mapa/Mapa-02.md)
