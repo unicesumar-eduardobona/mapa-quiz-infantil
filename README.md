@@ -1,7 +1,5 @@
 # Quiz Infantil
 
-## Mapa de Desenvolvimento
-
 ## Como executar?
 
 a. Baixe o projeto para sua máquina através do download no aqui mesmo na opção "Code"
@@ -12,6 +10,8 @@ php -S localhost:9001
 ```
 
 c. [Acesse o link http://localhost:9001 em seu navegador](http://localhost:9001)
+
+## Mapa de Desenvolvimento
 
 Você está recebendo um projeto em mãos. Este projeto já foi iniciado por outro desenvolvedor e agora cabe a você terminar ele conforme os requisitos.
 
