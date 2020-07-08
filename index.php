@@ -76,12 +76,12 @@ $animal_escolhido = $animais_detalhes[$animais[$escolha_aleatoria]];
             <div class="row">
                 <div class="col-md-3"></div>
                 <div class="col-md-3">
-                    <a href="resultado.php?apresentado=<?=$animais[$escolha_aleatoria]?>&escolhido=1">
+                    <a href="votar.php?apresentado=<?=$animais[$escolha_aleatoria]?>&escolhido=1">
                         <img width="256" src="./imagens/<?=$animais[$escolha_aleatoria]?>.png" class="img-fluid" alt="mora numa casinha" />
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="resultado.php?apresentado=<?=$animais[$escolha_aleatoria]?>&escolhido=2">
+                    <a href="votar.php?apresentado=<?=$animais[$escolha_aleatoria]?>&escolhido=2">
                         <!-- deixe dinâmico esta imagem abaixo -->
                         <img width="256" src="imagens/cachorro.png" class="img-fluid" alt="mora numa casinha" />
                     </a>
