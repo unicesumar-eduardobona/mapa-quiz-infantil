@@ -10,7 +10,7 @@ A tela, no que diz respeito ao visual (interface), está pronta. Ela está diviv
 
 Ao executar o projeto, você verá um jogo e se fizer a simulação de várias vezes um jogo iniciando (dando f5) irá notar que:
 - Só tem dois animais, o cachorro e a coruja
-- O animal correto, sempre é o primeiro
+- De forma equivocada, o sistema está previsivelmente sempre mostrando animal correto na primeira posição, da esquerda. E isso precisa ser aleatório.
 - Em alguns momentos o cachorro repete na tela
 - Ao clicar em uma opção, a tela posterior apresenta uma mensagem pela metade faltando informação
 
