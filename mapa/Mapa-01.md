@@ -2,7 +2,7 @@
 
 ## Mapa de Desenvolvimento
 
-### Terminando a página inicial do jogo
+### Deixando página inicial funcional e com mais animais
 
 Você está recebendo um projeto em mãos. Este projeto já foi iniciado por outro desenvolvedor e agora cabe a você terminar ele conforme os requisitos.
 
