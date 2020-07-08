@@ -2,6 +2,8 @@
 
 ## Mapa de Desenvolvimento
 
+### Deixando página inicial funcional e com mais animais
+
 Você está recebendo um projeto em mãos. Este projeto já foi iniciado por outro desenvolvedor e agora cabe a você terminar ele conforme os requisitos.
 
 A tela, no que diz respeito ao visual (interface), está pronta. Ela está divivida em duas áreas horizontais sendo que a primeira apresenta duas características de um animal e a outra apresenta duas opções possível de animal.
