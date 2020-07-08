@@ -2,13 +2,15 @@
 
 ## Mapa de Desenvolvimento
 
+### Deixando página inicial funcional e com mais animais
+
 Você está recebendo um projeto em mãos. Este projeto já foi iniciado por outro desenvolvedor e agora cabe a você terminar ele conforme os requisitos.
 
 A tela, no que diz respeito ao visual (interface), está pronta. Ela está divivida em duas áreas horizontais sendo que a primeira apresenta duas características de um animal e a outra apresenta duas opções possível de animal.
 
 Ao executar o projeto, você verá um jogo e se fizer a simulação de várias vezes um jogo iniciando (dando f5) irá notar que:
 - Só tem dois animais, o cachorro e a coruja
-- O animal correto, sempre é o primeiro
+- De forma equivocada, o sistema está previsivelmente sempre mostrando animal correto na primeira posição, da esquerda. E isso precisa ser aleatório.
 - Em alguns momentos o cachorro repete na tela
 - Ao clicar em uma opção, a tela posterior apresenta uma mensagem pela metade faltando informação
 
