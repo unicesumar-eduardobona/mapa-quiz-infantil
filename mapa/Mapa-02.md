@@ -2,7 +2,7 @@
 
 ## Mapa de Desenvolvimento
 
-### Nova Funcionalidade: Persistindo Votos
+### Adicionando nova funcionalidade de persistência de votos e atualização da pontuação
 
 O script votar.php precisa de algumas melhorias e dentre elas podemos destacar a persistência do voto, a pontuação acumulada 
 
