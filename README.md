@@ -2,7 +2,10 @@
 
 ## Como executar?
 
-a. Baixe o projeto para sua máquina através do download no aqui mesmo na opção "Code"
+a. Para quem tem familiariade com o Git, faça um clone através do comando apresentado abaixo ou baixe pelo download disponível no botão mostrado acima em "Code".
+```
+git clone https://github.com/unicesumar-eduardobona/mapa-quiz-infantil.git
+```
 
 b. Após baixar, abra a pasta do projeto e dentro dela execute o comando do PHP Server Embutido:
 ```
