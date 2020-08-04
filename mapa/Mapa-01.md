@@ -25,3 +25,12 @@ Por isso, nesta primeira etapa é desejado que:
     - É preciso mostrar o animal correto e outro animal, qualquer um, desde que não seja o mesmo.
 4. A mensagem da tela posterior deve seguir o seguinte critério caso seja mostrada a opção coruja e cachorro e a opção correta seja cachorro:
     - A mensagem será: "Você escolheu: coruja. A opção correta é: cachorro."
+
+#### Onde encontrar imagens de animais?
+
+Basicamente uma consulta no Google resolve e em tese a imagem em si não é o foco principal.
+
+Para quem quiser deixar bonito e padronizado, a imagem deve ser quadrada, se for possível 512x512 pixels.
+
+Um link de busca que podem encontrar mais exemplos deixarei a seguir:
+https://www.google.com/search?source=univ&tbm=isch&q=google+icon+animal+512x512&sa=X&ved=2ahUKEwih6prGx4LrAhWzErkGHa17CyAQsAR6BAgKEAE&biw=1920&bih=983
