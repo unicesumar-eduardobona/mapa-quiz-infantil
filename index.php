@@ -14,11 +14,18 @@ $animais_detalhes = [
             ['gosta da noite', 'coruja/gosta_da_noite.jpg'],
             ['tem olhos grandes', 'coruja/tem_olhos_grandes.jpg']
         ]
-    ]
+    ],
+    'urso' => [
+        'nome' => 'Urso',
+        'caracteristicas' => [
+            ['gosta de neve', 'urso/gosta_de_neve.jpg'],
+            ['mora na china', 'urso/habita_regioes_china.png']
+        ]
+    ],
 ];
 
 $animais = array_keys($animais_detalhes);
-$escolha_aleatoria = rand(0, 1);
+$escolha_aleatoria = rand(0, count($animais)-1);
 $animal_escolhido = $animais_detalhes[$animais[$escolha_aleatoria]];
 
 ?>
